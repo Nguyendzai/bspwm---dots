@@ -1,0 +1,13 @@
+// Rofi colors for Brenda
+
+* {
+    font: "JetBrainsMono NF Bold 9";
+    background: #1d2021;
+    background-alt: #1d2021E0;
+    foreground: #ebdbb2;
+    selected: #83a598;
+    active: #b8bb26;
+    urgent: #fb4934;
+
+    img-background: url("~/.config/bspwm/rices/gruvbox/rofi.webp", width);
+}
